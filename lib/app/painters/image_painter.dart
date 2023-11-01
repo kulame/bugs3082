@@ -1,7 +1,7 @@
 import "dart:ui" as ui;
 
 import "package:flutter/material.dart";
-import "package:loop/shared/utils/log.dart";
+import "package:focus_app/shared/utils/log.dart";
 
 class ImagePainter extends CustomPainter {
   final ui.Image image;
